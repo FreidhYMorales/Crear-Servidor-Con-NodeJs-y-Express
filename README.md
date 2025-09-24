@@ -25,7 +25,7 @@ Esto para revisar si tenemos node js ya instalado, si nos deveulve alguna versio
 winget install nodejs
 ```
 
-Esto instalara node js y todas su dependencias principales.
+Esto instalara node js y todas su dependencias principales. Reiniciar la terminal para ver los cambios.
 4. Ahora vamos a iniciar nuestro proyecto con el siguiente comando:
 ```bash
 npm init
