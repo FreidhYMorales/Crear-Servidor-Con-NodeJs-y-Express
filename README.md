@@ -8,4 +8,6 @@ Tenemos dos opciones, instalarlo desde la terminal con el siguiente comando:
 winget install --id ApacheFriends.XAMPP
 ```
 o lo instalamos descargando el .exe desde la pagina oficial
+```link
 https://www-apachefriends-org.translate.goog/download.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+```
