@@ -31,7 +31,11 @@ Esto instalara node js y todas su dependencias principales. Reiniciar la termina
 ```bash
 npm init
 ```
-Esto nos pedira algunos datos en consola para crear nuestro servidor, simplemente podemos darle enter a todo.
+Esto nos pedira algunos datos en consola para crear nuestro servidor, simplemente podemos darle enter a todo. Tambien podemos agregarle el parametro -y al comando anterior para no escribir nada:
+```bash
+npm init -y
+```
+Con esto ya tednria que estar todo preparado.
 
 5. vamos a instalar todas las dependecias extra para nuestro proyecto, ejecutamos los siguientes comandos:
   Para instalar express:
