@@ -58,8 +58,11 @@ npm i ejs
 code .
 ```
 7. Con esto podemos tirar codigo XD. Creamos nuestro archivo index.js.
-8. La estructura debe ser similar a los archivos de este repositorio.
-9. Hacer los siguientes cambios en el script del package.json:
+8. La estructura debe ser similar a los archivos de este repositorio. Para correr y levantar el server usar:
+```bash
+node index.js
+```
+10. Hacer los siguientes cambios en el script del package.json, esto para actualizar automaticamente el servidor frente a cambios en los archivos:
 ```script
   "scripts" : {
     "test" : "echo \"Error: no test specified\" && exit 1"
@@ -72,5 +75,8 @@ Por:
     "dev": "nodemon index.js"
   }
 ```
-
+Usar el siguiente comando para levantarlo, esto despues de los cambios anteriores:
+```bash
+npm run dev
+```
 Con esto deberia de funcionar el servidor!!!
