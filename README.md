@@ -57,10 +57,14 @@ code .
 ```script
   "scripts" : {
     "test" : "echo \"Error: no test specified\" && exit 1"
+  }
 ```
 Por:
 ```script
   "scripts": {
     "start": "index.js",
     "dev": "nodemon index.js"
+  }
 ```
+
+Con esto deberia de funcionar el servidor!!!
