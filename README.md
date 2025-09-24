@@ -26,11 +26,13 @@ winget install nodejs
 ```
 
 Esto instalara node js y todas su dependencias principales. Reiniciar la terminal para ver los cambios.
+
 4. Ahora vamos a iniciar nuestro proyecto con el siguiente comando:
 ```bash
 npm init
 ```
 Esto nos pedira algunos datos en consola para crear nuestro servidor, simplemente podemos darle enter a todo.
+
 5. vamos a instalar todas las dependecias extra para nuestro proyecto, ejecutamos los siguientes comandos:
   Para instalar express:
 ```bash
