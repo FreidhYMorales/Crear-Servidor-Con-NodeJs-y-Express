@@ -40,7 +40,7 @@ npm i express
 ```bash
 npm i -D nodemon
 ```
-    El parametro -D es para instalar este modulo como una dependencia de desarrollo, o sea que no sea necesario a la hora de ejecutar el servidor
+  El parametro -D es para instalar este modulo como una dependencia de desarrollo, o sea que no sea necesario a la hora de ejecutar el servidor
   
   Para instalar ejs y ver el formulario:
 ```bash
