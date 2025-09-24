@@ -53,3 +53,14 @@ code .
 ```
 7. Con esto podemos tirar codigo XD. Creamos nuestro archivo index.js.
 8. La estructura debe ser similar a los archivos de este repositorio.
+9. Hacer los siguientes cambios en el script del package.json:
+```script
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
+```
+Por:
+```script
+  "scripts": {
+    "start": "index.js",
+    "dev": "nodemon index.js"
+```
